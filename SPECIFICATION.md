@@ -1,5 +1,5 @@
 # Зміст 
-* ### [ 1. Вступ](http://example.com/)
+* ### [ ](http://example.com/)
 + #### [1.1 Мета](http://example.com/)
 + #### [1.2 Контекст](http://example.com/)
 + #### [1.3 Терміни](http://example.com/)
@@ -9,6 +9,15 @@
 * 5. [Introduction](#introduction)
 * 6. [Introduction](#introduction)
 * 7. [Introduction](#introduction)
+
+# Table of contents
+1. [Вступ](http://example.com/)
+  * [1.1 Мета](http://example.com/)
+  * [1.2 Контекст ](http://example.com/)
+  * [1.3 Терміни](http://example.com/)
+2. [Some para](#paragraph1)
+    
+3. [Another paragraph](#paragraph2)
 
 # 1. Вступ 
 В цьому документі описуються запити зацікавлених осіб, якими можуть виступати:
